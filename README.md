@@ -1,5 +1,5 @@
 # pdf-functions
-A serverless function that can consume a PDF document residing on Azure Blob Storage, and split each page into an individual PDF.
+Serverless function that can consume a PDF document residing on Azure Blob Storage, and split each page into an individual PDF.
 
 ## Prerequisites
 1. Create a [Function App](https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-first-azure-function) (OS = Linux; Runtime stack = Python)
